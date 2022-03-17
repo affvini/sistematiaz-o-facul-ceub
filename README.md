@@ -1,5 +1,3 @@
-Durante a disciplina de Algoritmos e Lógica de Programação, nós vimos como resolver problemas através da programação. Dessa forma, a nossa sistematização envolverá a criação de um programa para calcular o salário de uma equipe de vendas, um problema comum no mercado.
-Atividade:
 A loja de roupas JMJ, localizada em um centro comercial em Brasília, decidiu desenvolver um programa que automatize o cálculo do salário dos seus funcionários. Existem dois tipos de funcionários na loja: vendedor e gerente. A estrutura de salários é a seguinte:
 • O vendedor recebe um valor fixo R$1.000,00 mais uma comissão escalonada sobre as suas vendas. O percentual da comissão é definido de acordo com o valor total vendido pelo funcionário no mês, conforme a Tabela 1.
 Tabela 1 – Percentual de comissão de acordo com o total de vendas
